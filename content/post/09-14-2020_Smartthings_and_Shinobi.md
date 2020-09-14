@@ -27,7 +27,7 @@ image:
 **It took me two hours to do this but I bet you can get it done in 15 minutes.**
 
 
-{{< figure src="https://briandfrost.com/images/askaninja.jpg" title="Classic Ask-a-Ninja Ninja" >}}
+{{< figure src="https://briandfrost.com/assets/images/askaninja.jpg" title="Classic Ask-a-Ninja Ninja" >}}
 
 **Key Technologies and Products**
 - [Shinobi](https://shinobi.io)
