@@ -98,7 +98,7 @@ phone = "00 1 405 384 4488"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.3804666", longitude = "-97.2113184"}
+coordinates = {latitude = "35.3842767", longitude = "97.2127527,18.73z"}
 
 # Directions for visitors to locate you.
 directions = "Leave OKC, OK, USA and head east... you will find me there"
