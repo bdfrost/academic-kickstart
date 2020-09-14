@@ -14,8 +14,8 @@ categories:
 - HomeAutomation
 date: "2020-09-11T00:00:00Z"
 lastmod: "2020-09-11T00:00:00Z"
-featured: false
-draft: false
+featured: true
+draft: true
 
 image:
   placement: 2
