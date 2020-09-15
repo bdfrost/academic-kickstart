@@ -24,6 +24,7 @@ interests:
 - Engineering Highly Available Systems
 - Infrastructure as Code
 - Technical Leadership
+- People
 
 education:
   courses:
@@ -65,3 +66,7 @@ email: "bfrost@brainboy.com"
 ---
 
 Certified Google Cloud Architect and Amazon Solutions Architect providing quality technical leadership and development of fast, efficient, and highly-available systems and operations. Excellent communicator who values the contributions of others and the merit that they bring.
+
+I have been active in technology for more than 20 years and have learned that leadership isn't what I initially thought. It isn't making demands rather it is as Ken Kesey once said, "You don’t lead by pointing and telling people some place to go. You lead by going to that place and making a case." 
+
+As a technology leader I am constantly learning how best to empower others while staying active in the latest trends in technology.

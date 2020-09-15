@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "slack-hash"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "terraform"
+  description = "Infrastructure as Code: IaC, FTW!"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cloud"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "cloud"
+  description = "The cloud gets clearer"  
   
 [[feature]]
   icon = "camera-retro"
